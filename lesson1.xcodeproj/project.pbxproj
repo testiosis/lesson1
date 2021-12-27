@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		A6FE208927762244008ADE6D /* lesson1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = lesson1; sourceTree = BUILT_PRODUCTS_DIR; };
-		A6FE208C27762244008ADE6D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A6FE208C27762244008ADE6D /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		A6FE209327788CB1008ADE6D /* TestPlan.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TestPlan.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		A6FE208027762244008ADE6D = {
 			isa = PBXGroup;
 			children = (
+				A6FE209327788CB1008ADE6D /* TestPlan.xctestplan */,
 				A6FE208B27762244008ADE6D /* lesson1 */,
 				A6FE208A27762244008ADE6D /* Products */,
 			);
@@ -61,6 +63,7 @@
 			);
 			path = lesson1;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 /* End PBXGroup section */
 

@@ -1,0 +1,18 @@
+{
+  "configurations" : [
+    {
+      "id" : "FC139D8C-26B5-4F03-A790-D20CDA72FC90",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
